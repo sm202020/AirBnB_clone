@@ -56,3 +56,8 @@ Improve the page by adding responsive design to display correctly in mobile or s
 12. Accessibility
 
 Improve the page by adding Accessibility support
+
+Author
+
+Sunday Akinbode Mebawondu - akinbode4life@gmail.com
+Elvis Owusu-Sekyere -elvlon@yahoo.com
