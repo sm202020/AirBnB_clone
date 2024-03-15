@@ -66,16 +66,4 @@ mprove the page by adding responsive design to display correctly in mobile or sm
 Improve the page by adding Accessibility support
 Author
 
-Sunday Ak MEbawondu
-=======
-
-Improve the page by adding responsive design to display correctly in mobile or small screens.
-12. Accessibility
-
-Improve the page by adding Accessibility support
-
-Author
-
-Sunday Akinbode Mebawondu - akinbode4life@gmail.com
-Elvis Owusu-Sekyere -elvlon@yahoo.com
->>>>>>> 90ebffb10fcf78a6f992bb1b0e67c1ba7f95e153
+Sunday Akinbode Mebawondu<akinbode4life@gmail.com>
