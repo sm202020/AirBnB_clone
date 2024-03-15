@@ -41,14 +41,7 @@ Write an HTML page that displays a header, footer and a filters box.
 Write an HTML page that displays a header, footer and a filters box with dropdown.
 7. Display result
 Write e that displays a header, footer, a filters box with dropdown and results.
-=======
-6. It's (h)over
 
-Write an HTML page that displays a header, footer and a filters box with dropdown.
-7. Display results
-
-Write an HTML page that displays a header, footer, a filters box with dropdown and results.
->>>>>>> 90ebffb10fcf78a6f992bb1b0e67c1ba7f95e153
 8. More details
 
 Write an HTML page that displays a header, a footer, a filter box (dropdown list) and the result of the search.
