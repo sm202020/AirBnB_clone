@@ -35,11 +35,20 @@ Write an HTML page that displays a header, footer and a filters box with a searc
 5. More filters
 
 Write an HTML page that displays a header, footer and a filters box.
+<<<<<<< HEAD
 6.: It's (h)over
 
 Write an HTML page that displays a header, footer and a filters box with dropdown.
 7. Display result
 Write e that displays a header, footer, a filters box with dropdown and results.
+=======
+6. It's (h)over
+
+Write an HTML page that displays a header, footer and a filters box with dropdown.
+7. Display results
+
+Write an HTML page that displays a header, footer, a filters box with dropdown and results.
+>>>>>>> 90ebffb10fcf78a6f992bb1b0e67c1ba7f95e153
 8. More details
 
 Write an HTML page that displays a header, a footer, a filter box (dropdown list) and the result of the search.
@@ -50,6 +59,7 @@ Write an HTML page that displays a header, footer, a filters box with dropdown a
 
 Improve the Places section by using Flexible boxes for all Place articles
 11. Responsive design
+<<<<<<< HEAD
 mprove the page by adding responsive design to display correctly in mobile or small screens.
 12. Accessibility
 
@@ -57,3 +67,15 @@ Improve the page by adding Accessibility support
 Author
 
 Sunday Ak MEbawondu
+=======
+
+Improve the page by adding responsive design to display correctly in mobile or small screens.
+12. Accessibility
+
+Improve the page by adding Accessibility support
+
+Author
+
+Sunday Akinbode Mebawondu - akinbode4life@gmail.com
+Elvis Owusu-Sekyere -elvlon@yahoo.com
+>>>>>>> 90ebffb10fcf78a6f992bb1b0e67c1ba7f95e153
